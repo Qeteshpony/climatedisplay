@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB4130-GF-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/USB4130-GF-A_REVA")(options "")(descr ""))
+  (lib (name "climatedisplay")(type "KiCad")(uri "${KIPRJMOD}/climatedisplay.pretty")(options "")(descr ""))
+)
